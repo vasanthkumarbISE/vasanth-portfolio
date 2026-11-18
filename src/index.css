@@ -1,0 +1,30 @@
+:root {
+  --bg: #0b1018ff;
+  --text-color: #f0f6fc;
+  --abt-text: #c9d1d9;
+  --card-hover-bg: rgba(255, 255, 255, 0.05);
+  --accent-color: #58a6ff;
+  --button-gradient: linear-gradient(125deg, #58a6ff, #1f6feb);
+  --glow-border: linear-gradient(45deg, #58a6ff, #1f6feb, #58a6ff, #1f6feb);
+  --nav-text-color:#f9f9f9;
+  --info-bg:#11161d;
+  --info-shadow:rgba(0, 0, 0, 0.4);
+  --contact-bg:#10151d;
+  --contact-card:#1a2433ff;
+  --experience-bg:#10151d;
+  --ex-text:rgb(212, 210, 210);
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  scrollbar-width: none;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+body{
+  background: var(--bg);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
