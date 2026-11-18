@@ -8,6 +8,9 @@ This portfolio highlights my experience as a **Java Full Stack Developer** and m
 
 ## 🔗 Links
 
+**Live Demo**  
+[vasanth-portfolio-psi.vercel.app](https://vasanth-portfolio-psi.vercel.app/)
+
 **GitHub Repository**  
 [https://github.com/vasanthkumarbISE/vasanth-portfolio](https://github.com/vasanthkumarbISE/vasanth-portfolio)
 
